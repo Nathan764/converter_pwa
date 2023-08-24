@@ -34,7 +34,7 @@
             "type": "image/png"
         }
     ],
-    "start_url": "/projects/converter_pwa/index.html",
+    "start_url": "/converter_pwa/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#199332"
